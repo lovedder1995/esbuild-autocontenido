@@ -54,3 +54,9 @@ esbuild.build({
 ```bash
 node dist/bin/esbuild-autocontenido.js --version
 ```
+
+## Instalación
+
+```bash
+npm install --save-dev github:lovedder1995/esbuild-autocontenido#{última.fecha.de.publicación}
+```
